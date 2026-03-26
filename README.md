@@ -15,4 +15,8 @@ code simple qui :
 à faire mais pas cette fois ci : ajouter un gate in pour synchrioniser avec le synthé modulaire
 
     
+librairies :
 
+https://github.com/robert-hh/ads1x15
+
+https://github.com/sensai7/Micropython-midi-library
